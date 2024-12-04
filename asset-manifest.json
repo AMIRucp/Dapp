@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Dapp/static/js/main.3d75cb7e.js",
-    "index.html": "/Dapp/index.html",
-    "main.3d75cb7e.js.map": "/Dapp/static/js/main.3d75cb7e.js.map"
+    "main.js": "/Dapp/src/App.js/static/js/main.3d75cb7e.js",
+    "index.html": "/Dapp/src/App.js/index.html",
+    "main.3d75cb7e.js.map": "/Dapp/src/App.js/static/js/main.3d75cb7e.js.map"
   },
   "entrypoints": [
     "static/js/main.3d75cb7e.js"
